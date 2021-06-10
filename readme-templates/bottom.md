@@ -12,4 +12,7 @@
 [license-url]: ${{env.REPOSITORY_GITHUB_URL}}/blob/${{env.REPOSITORY_DEFAULT_BRANCH}}/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/${{env.REPOSITORY_OWNER}}/
-[product-screenshot]: images/screenshot.png
+[linkedin-icon]: https://simpleicons.org/icons/linkedin.pdf
+[github-icon]: https://simpleicons.org/icons/github.pdf
+[twitter-icon]: https://simpleicons.org/icons/twitter.pdf
+[mail-icon]: https://simpleicons.org/icons/gmail.pdf
