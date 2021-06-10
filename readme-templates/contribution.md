@@ -18,9 +18,8 @@ Distributed under the MIT License. See [`LICENSE`](${{env.REPOSITORY_GITHUB_URL}
 
 <!-- CONTACT -->
 ## Contact
-> **Johan Mejia**  <a href="https://www.linkedin.com/in/${{env.REPOSITORY_OWNER}}/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="16" height="16"> </a> <a href="mailto:johan-steven.mejia-mogollon@imt-atlantique.net"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="16" height="16"> </a> <a href="${{env.OWNER_PROFILE}}"> <img src="https://image.flaticon.com/icons/png/512/733/733553.png" width="16" height="16"> </a>
-
-> **Project Link:** [${{env.REPOSITORY_GITHUB_URL}}](${{env.REPOSITORY_GITHUB_URL}})
+**Johan Mejia:**  <a href="https://www.linkedin.com/in/${{env.REPOSITORY_OWNER}}/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="16" height="16"></a> <a href="mailto:johan-steven.mejia-mogollon@imt-atlantique.net"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="16" height="16"></a> <a href="${{env.OWNER_PROFILE}}"> <img src="https://image.flaticon.com/icons/png/512/733/733553.png" width="16" height="16"></a>
+**Project Link:**  [${{env.REPOSITORY_GITHUB_URL}}](${{env.REPOSITORY_GITHUB_URL}})
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
