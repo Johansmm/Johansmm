@@ -18,7 +18,7 @@ Distributed under the MIT License. See [`LICENSE`](${{env.REPOSITORY_GITHUB_URL}
 
 <!-- CONTACT -->
 ## Contact
-> **Johan Mejia** [![LinkedIn][linkedin-icon]][linkedin-url] [![Mail][mail-icon]](johan-steven.mejia-mogollon@imt-atlantique.net) [![GitHub][github-icon]](${{env.OWNER_PROFILE}})
+> **Johan Mejia** [![LinkedIn][linkedin-icon]][linkedin-url] [![johan-steven.mejia-mogollon@imt-atlantique.net][mail-icon]](johan-steven.mejia-mogollon@imt-atlantique.net) [![GitHub][github-icon]](${{env.OWNER_PROFILE}})
 
 > **Project Link:** [${{env.REPOSITORY_GITHUB_URL}}](${{env.REPOSITORY_GITHUB_URL}})
 
