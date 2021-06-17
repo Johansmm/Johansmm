@@ -1,8 +1,3 @@
-<!--
-*** Template auto-generated
--->
-
-<!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]

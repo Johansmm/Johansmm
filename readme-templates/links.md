@@ -10,4 +10,4 @@
 [license-shield]: https://img.shields.io/github/license/${{env.REPOSITORY_FULL_NAME}}.svg?style=for-the-badge
 [license-url]: ${{env.REPOSITORY_GITHUB_URL}}/blob/${{env.REPOSITORY_DEFAULT_BRANCH}}/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/${{env.REPOSITORY_OWNER}}/
+[linkedin-url]: https://www.linkedin.com/in/${{env.REPOSITORY_OWNER}}
