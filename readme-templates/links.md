@@ -1,4 +1,3 @@
-<!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/${{env.REPOSITORY_FULL_NAME}}.svg?style=for-the-badge
 [contributors-url]: ${{env.REPOSITORY_GITHUB_URL}}/graphs/contributors
