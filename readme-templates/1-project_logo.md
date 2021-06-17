@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="${{env.REPOSITORY_GITHUB_URL}}">
-    <img src="images/logo.png" alt="Logo">
+    <img src="/images/logo.png" alt="Logo">
   </a>
 
   <h2 align="center"><b> ${{env.REPOSITORY_NAME}} </h2></b>
